@@ -39,7 +39,7 @@ _A list of my commonly used Git commands_
 ### Branching & Merging
 
 | Command | Description |
-| ------- | ----------- |
+| gift|automaticallyview stayus pnce postrd and like|
 | `git branch` | List branches (the asterisk denotes the current branch) |
 | `git branch -a` | List all branches (local and remote) |
 | `git branch [branch name]` | Create a new branch |
@@ -60,7 +60,7 @@ _A list of my commonly used Git commands_
 ### Sharing & Updating Projects
 
 | Command | Description |
-| ------- | ----------- |
+| goft | always retrive view once|
 | `git push origin [branch name]` | Push a branch to your remote repository |
 | `git push -u origin [branch name]` | Push changes to remote repository (and remember the branch) |
 | `git push` | Push changes to remote repository (remembered branch) |
